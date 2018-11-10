@@ -10,3 +10,6 @@ yum install unzip
 
 
 wget https://raw.githubusercontent.com/zcx99/S/master/1.zip && unzip 1.zip && cd SSR* && bash install.sh
+
+
+wget https://raw.githubusercontent.com/zcx99/SSY/master/gost.sh && bash gost.sh
